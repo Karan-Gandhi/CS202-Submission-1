@@ -1,5 +1,7 @@
 # CS202 Submission 1
 
+**Name: Karan Gandhi (23110157)**
+
 Here are the Links to all the individual assignments:
 
 - Assignment 1: [https://github.com/Karan-Gandhi/CS202-Assignment-1](https://github.com/Karan-Gandhi/CS202-Assignment-1)
